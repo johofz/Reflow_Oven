@@ -1,0 +1,9 @@
+Flash_Icons.h:23:5:img_data_t::img_data_t(const uint16_t*, uint16_t, uint16_t, uint16_t, uint16_t, uint32_t)	24	static
+Defines.h:80:5:context_t::context_t(ILI9341*, MAX31855*, Touch*, ControllerPID*, Load*, Load*, Load*)	24	static
+main.cpp:75:5:int main()	272	static
+main.cpp:189:6:void SystemClock_Config()	88	static
+main.cpp:231:6:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static
+main.cpp:278:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	24	static
+main.cpp:334:6:void Error_Handler()	4	static
+main.cpp:340:1:void __static_initialization_and_destruction_0(int, int)	32	static
+main.cpp:340:1:cpp)	8	static

@@ -1,0 +1,15 @@
+Flash_Icons.h:23:5:img_data_t::img_data_t(const uint16_t*, uint16_t, uint16_t, uint16_t, uint16_t, uint32_t)	24	static
+Touch.h:65:13:Touch::~Touch()	16	static
+Touch.h:65:13:virtual Touch::~Touch()	16	static
+Touch.cpp:10:1:Touch::Touch(ADC_HandleTypeDef*, ADC_HandleTypeDef*, volatile uint8_t*, TIM_HandleTypeDef*)	32	static
+Touch.cpp:24:6:void Touch::Update()	16	static
+Touch.cpp:30:10:point_t& Touch::getPoint()	16	static
+Touch.cpp:36:9:uint8_t Touch::CheckRegion(uint16_t, uint16_t, uint16_t, uint16_t)	32	static
+Touch.cpp:54:9:uint8_t Touch::CheckRegion(img_data_t*)	24	static
+Touch.cpp:72:6:void Touch::StartTouchDelay()	16	static
+Touch.cpp:78:6:void Touch::ReadX()	32	static
+Touch.cpp:104:6:void Touch::ReadY()	32	static
+Touch.cpp:130:10:uint16_t Touch::MapX(uint16_t)	16	static
+Touch.cpp:135:10:uint16_t Touch::MapY(uint16_t)	16	static
+Touch.cpp:138:1:void __static_initialization_and_destruction_0(int, int)	32	static
+Touch.cpp:138:1:cpp)	8	static

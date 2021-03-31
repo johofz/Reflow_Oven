@@ -1,0 +1,7 @@
+Load.cpp:10:1:Load::Load(TIM_HandleTypeDef*, TIM_HandleTypeDef*, volatile load_state_t*)	24	static
+Load.cpp:17:1:Load::~Load()	16	static
+Load.cpp:17:1:virtual Load::~Load()	16	static
+Load.cpp:21:6:void Load::SetDuty(uint8_t)	24	static
+Load.cpp:47:9:uint8_t Load::GetDuty() const	16	static
+Load.cpp:52:6:void Load::On()	16	static
+Load.cpp:57:6:void Load::Off()	16	static
